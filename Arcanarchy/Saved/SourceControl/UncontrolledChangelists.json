@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/BP_MainGameInstance.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/BP_MainGameMode.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/BP_MainGameState.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/BP_MainPlayerController.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/BP_PlayerState.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_Boot_Level.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_MainMenu_Level.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea_Level.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_Travel_Level.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Widgets/Boot/WB_BootScreen.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Blueprints/GameModes/MainMenu/BP_GM_MainMenu.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Widgets/MainMenu/WB_MainMenu.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Widgets/MainMenu/WB_Base_Button.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Blueprints/GameModes/MainMenu/BP_PC_MainMenu.uasset",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_Boot.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_MainMenu.umap",
+				"C:/School/CITA412/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea.umap"
+			]
+		}
+	]
+}
