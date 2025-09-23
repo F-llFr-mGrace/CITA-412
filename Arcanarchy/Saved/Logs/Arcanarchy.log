@@ -9099,3 +9099,187 @@ End Object
 [2025.09.23-14.08.02:450][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17053.333984
 [2025.09.23-14.08.03:450][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.23-14.08.03:450][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17054.000000, Update Interval: 313.744324
+[2025.09.23-14.13.48:891][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17400.146484
+[2025.09.23-14.13.49:893][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-14.13.49:893][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17400.814453, Update Interval: 332.374023
+[2025.09.23-14.20.14:986][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17786.542969
+[2025.09.23-14.20.15:987][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-14.20.15:987][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17787.210938, Update Interval: 332.749420
+[2025.09.23-14.21.29:158][273]LogDerivedDataCache: C:/Users/Eturnum/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.23-14.24.54:656][985]LogEditorTransaction: Undo Add Node
+[2025.09.23-14.25.11:831][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.23-14.25.13:366][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-14.25.13:530][256]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController] ([2] browsable assets)...
+[2025.09.23-14.25.13:530][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController]
+[2025.09.23-14.25.13:548][256]LogSavePackage: Moving output files for package: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController
+[2025.09.23-14.25.13:548][256]LogSavePackage: Moving '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Saved/BP_TwinStickPlayerController0AB2E4124CC19C75EA9E468CA229D38A.tmp' to '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset'
+[2025.09.23-14.25.13:583][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.163 ms (total: 12.3 sec)
+[2025.09.23-14.25.13:661][256]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-14.25.13:662][256]LogContentValidation: Enabled validators:
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-14.25.13:662][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-14.25.13:662][256]AssetCheck: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController Validating asset
+[2025.09.23-14.25.15:805][292]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.23-14.25.15:812][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-14.25.15:812][292]LogPlayLevel: Display: Creating online subsystem for client :Context_129
+[2025.09.23-14.25.15:814][292]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2025.09.23-14.25.15:873][293]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level
+[2025.09.23-14.25.15:875][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2025.09.23-14.25.15:875][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level to /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level (0.001628s)
+[2025.09.23-14.25.15:898][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.23-14.25.15:904][293]LogChaosDD: Creating Chaos Debug Draw Scene for world NetworkTest_PlayArea_Level
+[2025.09.23-14.25.15:906][293]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2025.09.23-14.25.15:907][293]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-14.25.15:907][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-14.25.15:907][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-14.25.15:907][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-14.25.15:907][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-14.25.15:907][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-14.25.15:909][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-14.25.15:936][293]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.09.23-14.25.15:937][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-14.25.15:937][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-14.25.15:937][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-14.25.15:937][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.09.23-14.25.15:937][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=70
+[2025.09.23-14.25.15:939][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.09.23-14.25.15:939][293]LogInit: FAudioDevice initialized with ID 70.
+[2025.09.23-14.25.15:939][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.09.23-14.25.15:939][293]LogAudio: Display: Audio Device (ID: 70) registered with world 'NetworkTest_PlayArea_Level'.
+[2025.09.23-14.25.15:939][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.09.23-14.25.15:995][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-14.25.16:024][293]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.09.23-14.25.16:025][293]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level up for play (max tick rate 0) at 2025.09.23-10.25.16
+[2025.09.23-14.25.16:025][293]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_TwinStickGameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.09.23-14.25.16:025][293]LogWorld: Bringing up level for play took: 0.000866
+[2025.09.23-14.25.16:036][293]PIE: Server logged in
+[2025.09.23-14.25.16:042][293]PIE: Play in editor total start time 0.23 seconds.
+[2025.09.23-14.25.16:101][294]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-14.25.22:310][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-14.25.22:310][664]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level
+[2025.09.23-14.25.22:381][664]LogSlate: Window 'Arcanarchy Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.23-14.25.22:397][664]LogWorld: UWorld::CleanupWorld for NetworkTest_PlayArea_Level, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-14.25.22:397][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.25.22:398][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-14.25.22:403][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.25.22:424][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.09.23-14.25.22:424][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=4
+[2025.09.23-14.25.22:426][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=2
+[2025.09.23-14.25.22:432][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.23-14.25.22:467][665]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2025.09.23-14.25.43:645][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-14.25.43:811][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController] ([2] browsable assets)...
+[2025.09.23-14.25.43:811][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController]
+[2025.09.23-14.25.43:827][ 22]LogSavePackage: Moving output files for package: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController
+[2025.09.23-14.25.43:827][ 22]LogSavePackage: Moving '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Saved/BP_TwinStickPlayerController18453A1548B8C8A088F8EAA382078983.tmp' to '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset'
+[2025.09.23-14.25.43:863][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.351 ms (total: 12.5 sec)
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: Enabled validators:
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-14.25.43:926][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-14.25.43:926][ 22]AssetCheck: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController Validating asset
+[2025.09.23-14.25.44:811][ 39]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.23-14.25.44:818][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-14.25.44:818][ 39]LogPlayLevel: Display: Creating online subsystem for client :Context_130
+[2025.09.23-14.25.44:820][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2025.09.23-14.25.44:861][ 40]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level
+[2025.09.23-14.25.44:863][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001734s)
+[2025.09.23-14.25.44:863][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level to /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level (0.001779s)
+[2025.09.23-14.25.44:886][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.23-14.25.44:891][ 40]LogChaosDD: Creating Chaos Debug Draw Scene for world NetworkTest_PlayArea_Level
+[2025.09.23-14.25.44:892][ 40]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2025.09.23-14.25.44:893][ 40]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-14.25.44:893][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-14.25.44:893][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-14.25.44:893][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-14.25.44:893][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-14.25.44:893][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-14.25.44:895][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.09.23-14.25.44:921][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=71
+[2025.09.23-14.25.44:923][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.09.23-14.25.44:923][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.09.23-14.25.44:923][ 40]LogInit: FAudioDevice initialized with ID 71.
+[2025.09.23-14.25.44:923][ 40]LogAudio: Display: Audio Device (ID: 71) registered with world 'NetworkTest_PlayArea_Level'.
+[2025.09.23-14.25.44:923][ 40]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.09.23-14.25.44:984][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-14.25.45:019][ 40]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.09.23-14.25.45:020][ 40]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level.NetworkTest_PlayArea_Level up for play (max tick rate 0) at 2025.09.23-10.25.45
+[2025.09.23-14.25.45:021][ 40]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_TwinStickGameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.09.23-14.25.45:021][ 40]LogWorld: Bringing up level for play took: 0.001085
+[2025.09.23-14.25.45:031][ 40]PIE: Server logged in
+[2025.09.23-14.25.45:035][ 40]PIE: Play in editor total start time 0.218 seconds.
+[2025.09.23-14.25.45:096][ 41]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-14.25.48:721][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-14.25.48:721][256]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NetworkTest_PlayArea_Level
+[2025.09.23-14.25.48:794][256]LogSlate: Window 'Arcanarchy Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.23-14.25.48:807][256]LogWorld: UWorld::CleanupWorld for NetworkTest_PlayArea_Level, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-14.25.48:807][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.25.48:808][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-14.25.48:813][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.25.48:835][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.09.23-14.25.48:835][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71, StreamState=4
+[2025.09.23-14.25.48:837][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71, StreamState=2
+[2025.09.23-14.25.48:842][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.23-14.25.48:877][257]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2025.09.23-14.26.27:570][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18160.078125
+[2025.09.23-14.26.28:570][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-14.26.28:570][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18160.746094, Update Interval: 307.452606
+[2025.09.23-14.29.26:678][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-14.29.26:854][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController] ([2] browsable assets)...
+[2025.09.23-14.29.26:854][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController]
+[2025.09.23-14.29.26:870][797]LogSavePackage: Moving output files for package: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController
+[2025.09.23-14.29.26:871][797]LogSavePackage: Moving '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Saved/BP_TwinStickPlayerController9D496A474D47106DCE9EBC9ADD3446B5.tmp' to '../../../../../../../School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset'
+[2025.09.23-14.29.26:908][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.871 ms (total: 12.7 sec)
+[2025.09.23-14.29.26:971][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-14.29.26:971][797]LogContentValidation: Enabled validators:
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-14.29.26:971][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-14.29.26:972][797]AssetCheck: /Game/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController Validating asset
+[2025.09.23-14.30.01:250][364]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_143
+[2025.09.23-14.30.01:316][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_144
+[2025.09.23-14.30.01:330][365]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.23-14.30.01:602][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_145
+[2025.09.23-14.30.02:107][374]LogNiagara: Compiling System NiagaraSystem /Game/Variant_TwinStick/FX/NS_TopDownAction_Destruction.NS_TopDownAction_Destruction took 0.761158 sec (time since issued).
+[2025.09.23-14.30.12:320][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_TwinStick/Blueprints/BPI_Twinstick.BPI_Twinstick
+[2025.09.23-14.30.12:320][544]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_146
+[2025.09.23-14.30.22:954][723]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-14.30.22:954][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.30.23:018][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.23-14.30.46:993][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_TwinStick/Input/BPI_TouchInterface_TwinStick.BPI_TouchInterface_TwinStick
+[2025.09.23-14.30.46:993][122]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_147
+[2025.09.23-14.30.55:204][272]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-14.30.55:204][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-14.30.55:264][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
