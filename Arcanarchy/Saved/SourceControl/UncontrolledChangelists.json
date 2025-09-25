@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPickup.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPCDestruction.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPC.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/UI/UI_Multiplayer.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/LVL_TwinStick.umap",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickAoEAttack.uasset",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset"
+			]
+		}
+	]
+}
