@@ -9,7 +9,22 @@
 				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickAoEAttack.uasset",
 				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
 				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPCDestruction.uasset"
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPCDestruction.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_Lightning.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/FX/NS_TopDownAction_Destruction.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/3_pack_of_storm_lightning/StaticMeshes/Object_4.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/3_pack_of_storm_lightning/StaticMeshes/Object_6.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/3_pack_of_storm_lightning/StaticMeshes/Object_8.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/3_pack_of_storm_lightning/Materials/th_bolt.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/NS_LightningBolt.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/M_LightningTail.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/M_Electric.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/NS_Lightning_Projectile.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_Shooter.uasset",
+				"C:/Users/Student/Desktop/CITA-412/Arcanarchy/Content/Variant_TwinStick/LVL_TwinStick.umap"
 			]
 		}
 	]
