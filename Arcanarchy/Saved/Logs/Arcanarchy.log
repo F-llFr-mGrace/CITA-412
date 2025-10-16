@@ -5432,3 +5432,430 @@ Script Stack (0 frames) :
 [2025.10.16-13.37.30:963][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55948.781250
 [2025.10.16-13.37.31:963][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.16-13.37.31:963][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55949.445312, Update Interval: 353.741272
+[2025.10.16-13.39.52:966][257]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.16-13.39.52:977][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.16-13.39.52:998][257]LogPlayLevel: Creating play world package: /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.39.53:004][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005482s)
+[2025.10.16-13.39.53:004][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_TwinStick/LVL_TwinStick.LVL_TwinStick to /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick (0.005559s)
+[2025.10.16-13.39.53:060][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.16-13.39.53:065][257]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_TwinStick
+[2025.10.16-13.39.53:067][257]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2025.10.16-13.39.53:068][257]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.16-13.39.53:068][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.16-13.39.53:068][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.16-13.39.53:068][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.16-13.39.53:068][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.16-13.39.53:068][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.16-13.39.53:071][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.16-13.39.53:095][257]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.10.16-13.39.53:095][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.16-13.39.53:095][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.16-13.39.53:095][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.16-13.39.53:096][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.10.16-13.39.53:096][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.10.16-13.39.53:097][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.10.16-13.39.53:097][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.10.16-13.39.53:097][257]LogInit: FAudioDevice initialized with ID 43.
+[2025.10.16-13.39.53:097][257]LogAudio: Display: Audio Device (ID: 43) registered with world 'LVL_TwinStick'.
+[2025.10.16-13.39.53:097][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.10.16-13.39.53:101][257]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.10.16-13.39.53:103][257]LogWorld: Bringing World /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick up for play (max tick rate 60) at 2025.10.16-09.39.53
+[2025.10.16-13.39.53:104][257]LogWorld: Bringing up level for play took: 0.001835
+[2025.10.16-13.39.53:107][257]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.10.16-13.39.53:113][257]PIE: Server logged in
+[2025.10.16-13.39.53:116][257]PIE: Play in editor total start time 0.141 seconds.
+[2025.10.16-13.40.01:819][425]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.01:867][426]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.01:923][427]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.01:978][428]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:033][429]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:089][430]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:146][431]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:206][432]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:228][433]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:290][434]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:385][435]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:407][436]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:505][437]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:566][438]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:585][439]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:686][440]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:741][441]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:787][442]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:850][443]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:869][444]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:958][445]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.02:980][446]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:070][447]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:093][448]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:183][449]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:206][450]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:296][451]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:319][452]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:408][453]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:430][454]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:520][455]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:541][456]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:630][457]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:650][458]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.03:741][459]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.21:931][806]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.21:987][807]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:073][808]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:094][809]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:178][810]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:233][811]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:286][812]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:342][813]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:362][814]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:410][815]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:497][816]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:552][817]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:572][818]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:656][819]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:710][820]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:731][821]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:784][822]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:834][823]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:919][824]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.22:942][825]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:026][826]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:072][827]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:132][828]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:184][829]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:237][830]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:291][831]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:343][832]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:396][833]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:420][834]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:500][835]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:556][836]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:577][837]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:660][838]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:682][839]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:766][840]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:821][841]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:865][842]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:896][843]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.23:948][844]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.40.36:869][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.40.36:869][ 87]LogWorld: BeginTearingDown for /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.40.36:869][ 87]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.16-13.40.36:870][ 87]LogWorld: UWorld::CleanupWorld for LVL_TwinStick, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.40.36:871][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.40.36:935][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.16-13.40.36:943][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.40.36:983][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.40.36:984][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.10.16-13.40.36:984][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2025.10.16-13.40.36:987][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2025.10.16-13.40.36:998][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.16-13.40.37:067][ 88]Cmd: SELECT NONE
+[2025.10.16-13.40.37:085][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.10.16-13.43.57:739][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56335.347656
+[2025.10.16-13.43.57:856][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.16-13.43.57:856][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56335.421875, Update Interval: 352.882477
+[2025.10.16-13.44.27:408][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ElectricProjectile.BP_ElectricProjectile
+[2025.10.16-13.44.27:408][ 70]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.16-13.44.57:756][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.16-13.48.49:922][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.16-13.48.50:831][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-13.48.50:975][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_ElectricProjectile] ([2] browsable assets)...
+[2025.10.16-13.48.50:975][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_ElectricProjectile]
+[2025.10.16-13.48.50:975][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ElectricProjectile" FILE="../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset" SILENT=true
+[2025.10.16-13.48.50:991][ 84]LogSavePackage: Moving output files for package: /Game/BP_ElectricProjectile
+[2025.10.16-13.48.50:991][ 84]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Saved/BP_ElectricProjectile156B00354DA2596400280EAAD0F20577.tmp' to '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset'
+[2025.10.16-13.48.51:011][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.524 ms (total: 7.17 sec)
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: Enabled validators:
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-13.48.51:047][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-13.48.51:047][ 84]AssetCheck: /Game/BP_ElectricProjectile Validating asset
+[2025.10.16-13.50.33:827][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56731.023438
+[2025.10.16-13.50.33:987][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.16-13.50.33:987][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56731.152344, Update Interval: 314.778900
+[2025.10.16-13.50.48:915][137]LogEditorTransaction: Undo Delete current selection
+[2025.10.16-13.51.52:171][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-13.51.52:281][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_ElectricProjectile] ([2] browsable assets)...
+[2025.10.16-13.51.52:281][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_ElectricProjectile]
+[2025.10.16-13.51.52:281][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ElectricProjectile" FILE="../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset" SILENT=true
+[2025.10.16-13.51.52:298][876]LogSavePackage: Moving output files for package: /Game/BP_ElectricProjectile
+[2025.10.16-13.51.52:299][876]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Saved/BP_ElectricProjectile8F95E15D40C9E0F430CAFD97A5900E84.tmp' to '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset'
+[2025.10.16-13.51.52:319][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.982 ms (total: 7.32 sec)
+[2025.10.16-13.51.52:381][876]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.16-13.51.52:381][876]LogContentValidation: Enabled validators:
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-13.51.52:381][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-13.51.52:381][876]AssetCheck: /Game/BP_ElectricProjectile Validating asset
+[2025.10.16-13.51.55:507][947]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.16-13.51.55:522][947]LogPlayLevel: [PlayLevel] Compiling BP_ElectricProjectile before play...
+[2025.10.16-13.51.55:627][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.16-13.51.55:634][947]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2025.10.16-13.51.55:634][947]LogPlayLevel: Creating play world package: /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.51.55:638][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004804s)
+[2025.10.16-13.51.55:638][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_TwinStick/LVL_TwinStick.LVL_TwinStick to /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick (0.004850s)
+[2025.10.16-13.51.55:674][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.16-13.51.55:677][947]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_TwinStick
+[2025.10.16-13.51.55:680][947]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2025.10.16-13.51.55:680][947]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.16-13.51.55:680][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.16-13.51.55:680][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.16-13.51.55:680][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.16-13.51.55:680][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.16-13.51.55:680][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.16-13.51.55:682][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.16-13.51.55:703][947]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.10.16-13.51.55:704][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.16-13.51.55:704][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.16-13.51.55:704][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.16-13.51.55:705][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.10.16-13.51.55:705][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.10.16-13.51.55:707][947]LogInit: FAudioDevice initialized with ID 44.
+[2025.10.16-13.51.55:707][947]LogAudio: Display: Audio Device (ID: 44) registered with world 'LVL_TwinStick'.
+[2025.10.16-13.51.55:707][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.10.16-13.51.55:707][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.10.16-13.51.55:707][947]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.16-13.51.55:712][947]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.10.16-13.51.55:714][947]LogWorld: Bringing World /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick up for play (max tick rate 60) at 2025.10.16-09.51.55
+[2025.10.16-13.51.55:714][947]LogWorld: Bringing up level for play took: 0.001620
+[2025.10.16-13.51.55:717][947]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2025.10.16-13.51.55:724][947]PIE: Server logged in
+[2025.10.16-13.51.55:725][947]PIE: Play in editor total start time 0.207 seconds.
+[2025.10.16-13.52.32:724][ 50]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:765][ 51]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:786][ 52]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:841][ 53]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:860][ 54]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:916][ 55]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:946][ 56]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.32:989][ 57]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:036][ 58]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:074][ 59]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:114][ 60]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:149][ 61]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:187][ 62]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:227][ 63]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:262][ 64]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:299][ 65]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:332][ 66]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:371][ 67]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:410][ 68]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:447][ 69]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:482][ 70]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:524][ 71]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:559][ 72]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:604][ 73]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:646][ 74]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:669][ 75]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:721][ 76]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:763][ 77]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:799][ 78]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:839][ 79]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:879][ 80]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:917][ 81]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:955][ 82]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.33:997][ 83]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:034][ 84]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:075][ 85]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:115][ 86]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:152][ 87]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:191][ 88]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:230][ 89]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:267][ 90]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:305][ 91]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:343][ 92]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:381][ 93]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:402][ 94]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:458][ 95]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:498][ 96]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:535][ 97]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:574][ 98]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:613][ 99]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:654][100]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.34:694][101]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.10.16-13.52.41:025][296]LogCharacterMovement: BP_TwinStickNPC_C_34 is stuck and failed to move! Velocity: X=35.97 Y=57.45 Z=0.00 Location: X=446.15 Y=2775.67 Z=121.61 Normal: X=-0.14 Y=0.93 Z=0.33 PenetrationDepth:27.114 Actor:BP_TwinStickNPC_C_35 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2025.10.16-13.52.53:919][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.52.53:919][697]LogWorld: BeginTearingDown for /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.52.53:919][697]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.16-13.52.53:921][697]LogWorld: UWorld::CleanupWorld for LVL_TwinStick, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.52.53:924][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.52.53:929][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.16-13.52.53:937][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.52.53:978][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.52.53:978][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.16-13.52.53:978][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2025.10.16-13.52.53:981][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2025.10.16-13.52.53:992][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.16-13.52.54:019][698]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2025.10.16-13.54.22:289][261]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Variant_TwinStick/Meshes/SM_TargetBaseMesh.SM_TargetBaseMesh
+[2025.10.16-13.54.22:350][261]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.16-13.54.22:494][261]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.16-13.54.32:438][383]LogSlate: Window 'SM_TargetBaseMesh' being destroyed
+[2025.10.16-13.54.32:566][383]LogSlate: Window 'SM_TargetBaseMesh' being destroyed
+[2025.10.16-13.54.32:569][383]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.54.32:569][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.54.32:720][383]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.54.32:721][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.54.32:791][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.16-13.54.43:452][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.BP_TwinStickCharacter
+[2025.10.16-13.54.43:453][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.16-13.56.34:494][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57091.789062
+[2025.10.16-13.56.34:619][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.16-13.56.34:619][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57091.898438, Update Interval: 319.224823
+[2025.10.16-13.57.33:884][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.BP_TwinStickProjectile
+[2025.10.16-13.57.33:884][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.10.16-13.58.14:908][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.16-13.58.14:921][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.16-13.58.14:921][406]LogPlayLevel: Creating play world package: /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.58.14:926][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005433s)
+[2025.10.16-13.58.14:926][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_TwinStick/LVL_TwinStick.LVL_TwinStick to /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick (0.005503s)
+[2025.10.16-13.58.15:025][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.16-13.58.15:029][406]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_TwinStick
+[2025.10.16-13.58.15:031][406]LogPlayLevel: PIE: World Init took: (0.002140s)
+[2025.10.16-13.58.15:032][406]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.10.16-13.58.15:032][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.16-13.58.15:033][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.16-13.58.15:033][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.16-13.58.15:033][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.16-13.58.15:033][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.16-13.58.15:033][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.16-13.58.15:035][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.16-13.58.15:053][406]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.10.16-13.58.15:053][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.16-13.58.15:054][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.16-13.58.15:054][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.16-13.58.15:054][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.10.16-13.58.15:054][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.10.16-13.58.15:057][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.10.16-13.58.15:057][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.10.16-13.58.15:057][406]LogInit: FAudioDevice initialized with ID 45.
+[2025.10.16-13.58.15:057][406]LogAudio: Display: Audio Device (ID: 45) registered with world 'LVL_TwinStick'.
+[2025.10.16-13.58.15:057][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.16-13.58.15:061][406]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.10.16-13.58.15:063][406]LogWorld: Bringing World /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick up for play (max tick rate 60) at 2025.10.16-09.58.15
+[2025.10.16-13.58.15:063][406]LogWorld: Bringing up level for play took: 0.001587
+[2025.10.16-13.58.15:066][406]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2025.10.16-13.58.15:073][406]PIE: Server logged in
+[2025.10.16-13.58.15:075][406]PIE: Play in editor total start time 0.157 seconds.
+[2025.10.16-13.58.40:438][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.58.40:439][869]LogWorld: BeginTearingDown for /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-13.58.40:439][869]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.16-13.58.40:440][869]LogWorld: UWorld::CleanupWorld for LVL_TwinStick, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.58.40:442][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.58.40:499][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.16-13.58.40:508][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.58.40:552][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.16-13.58.40:553][869]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.16-13.58.40:553][869]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2025.10.16-13.58.40:555][869]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2025.10.16-13.58.40:559][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-13.58.40:563][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.16-13.58.40:592][870]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2025.10.16-13.58.53:372][ 77]LogSlate: Window 'BP_TwinStickProjectile' being destroyed
+[2025.10.16-13.58.53:444][ 77]LogSlate: Window 'BP_TwinStickProjectile' being destroyed
+[2025.10.16-13.58.53:449][ 77]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.58.53:449][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.58.53:541][ 77]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.16-13.58.53:541][ 77]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-13.58.53:541][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-13.58.53:636][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.10.16-13.59.23:505][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ElectricProjectile.BP_ElectricProjectile
+[2025.10.16-13.59.23:505][620]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.10.16-14.00.27:962][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-14.00.28:084][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_ElectricProjectile] ([2] browsable assets)...
+[2025.10.16-14.00.28:084][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_ElectricProjectile]
+[2025.10.16-14.00.28:084][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ElectricProjectile" FILE="../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset" SILENT=true
+[2025.10.16-14.00.28:106][637]LogSavePackage: Moving output files for package: /Game/BP_ElectricProjectile
+[2025.10.16-14.00.28:107][637]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Saved/BP_ElectricProjectile07F03D70480309A245A22CBE26A84CAF.tmp' to '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset'
+[2025.10.16-14.00.28:125][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.587 ms (total: 7.48 sec)
+[2025.10.16-14.00.28:179][637]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.16-14.00.28:179][637]LogContentValidation: Enabled validators:
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-14.00.28:179][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-14.00.28:179][637]AssetCheck: /Game/BP_ElectricProjectile Validating asset
+[2025.10.16-14.00.36:956][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.16-14.00.36:972][873]LogPlayLevel: [PlayLevel] Compiling BP_ElectricProjectile before play...
+[2025.10.16-14.00.37:102][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.16-14.00.37:109][873]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2025.10.16-14.00.37:109][873]LogPlayLevel: Creating play world package: /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick
+[2025.10.16-14.00.37:114][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2025.10.16-14.00.37:114][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_TwinStick/LVL_TwinStick.LVL_TwinStick to /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick (0.004998s)
+[2025.10.16-14.00.37:151][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.16-14.00.37:154][873]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_TwinStick
+[2025.10.16-14.00.37:155][873]LogPlayLevel: PIE: World Init took: (0.001923s)
+[2025.10.16-14.00.37:157][873]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.16-14.00.37:157][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.16-14.00.37:157][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.16-14.00.37:157][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.16-14.00.37:157][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.16-14.00.37:157][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.16-14.00.37:159][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.16-14.00.37:178][873]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.10.16-14.00.37:178][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.16-14.00.37:178][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.16-14.00.37:178][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.16-14.00.37:179][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.10.16-14.00.37:179][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.10.16-14.00.37:182][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.10.16-14.00.37:182][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.10.16-14.00.37:182][873]LogInit: FAudioDevice initialized with ID 46.
+[2025.10.16-14.00.37:182][873]LogAudio: Display: Audio Device (ID: 46) registered with world 'LVL_TwinStick'.
+[2025.10.16-14.00.37:182][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.16-14.00.37:187][873]LogLoad: Game class is 'BP_TwinStickGameMode_C'
+[2025.10.16-14.00.37:188][873]LogWorld: Bringing World /Game/Variant_TwinStick/UEDPIE_0_LVL_TwinStick.LVL_TwinStick up for play (max tick rate 60) at 2025.10.16-10.00.37
+[2025.10.16-14.00.37:188][873]LogWorld: Bringing up level for play took: 0.001613
+[2025.10.16-14.00.37:191][873]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2025.10.16-14.00.37:199][873]PIE: Server logged in
+[2025.10.16-14.00.37:201][873]PIE: Play in editor total start time 0.234 seconds.
+[2025.10.16-14.00.50:689][121]LogCharacterMovement: BP_TwinStickNPC_C_20 is stuck and failed to move! Velocity: X=19.29 Y=24.35 Z=0.00 Location: X=322.86 Y=701.36 Z=10.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:78.062 Actor:StaticMeshActor_17 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.16-14.01.19:256][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-14.01.19:256][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_ElectricProjectile] ([2] browsable assets)...
+[2025.10.16-14.01.19:256][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_ElectricProjectile]
+[2025.10.16-14.01.19:256][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ElectricProjectile" FILE="../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset" SILENT=true
+[2025.10.16-14.01.19:275][660]LogSavePackage: Moving output files for package: /Game/BP_ElectricProjectile
+[2025.10.16-14.01.19:276][660]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Saved/BP_ElectricProjectileF464CFC74FDCECDFDD08D6A554D614CD.tmp' to '../../../../../../Users/Student/Desktop/CITA-412/Arcanarchy/Content/BP_ElectricProjectile.uasset'
+[2025.10.16-14.01.19:278][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.710 ms (total: 7.50 sec)
+[2025.10.16-14.01.19:286][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.16-14.01.19:287][660]LogContentValidation: Enabled validators:
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-14.01.19:287][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-14.01.19:287][660]AssetCheck: /Game/BP_ElectricProjectile Validating asset
