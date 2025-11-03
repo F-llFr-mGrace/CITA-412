@@ -2756,3 +2756,613 @@ FPackageName: Skipped package /Game/Meshes/LabWallAssets/OBJ_LabWallPillar has a
 [2025.11.03-02.13.18:954][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1071.188232
 [2025.11.03-02.13.19:948][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.03-02.13.19:948][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1071.853271, Update Interval: 317.232574
+[2025.11.03-02.14.35:902][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.14.36:043][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.03-02.14.36:065][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.14.36:085][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.14.36:139][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.968 ms (total: 3.81 sec)
+[2025.11.03-02.14.45:470][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.14.45:633][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.14.45:655][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.14.45:677][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.14.45:717][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.845 ms (total: 4.06 sec)
+[2025.11.03-02.14.55:661][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.14.55:816][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.14.55:839][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.14.55:860][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.03-02.14.55:893][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.811 ms (total: 4.29 sec)
+[2025.11.03-02.15.04:655][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.15.04:813][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.03-02.15.04:832][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.15.04:850][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.11.03-02.15.04:880][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.258 ms (total: 4.52 sec)
+[2025.11.03-02.15.16:967][779]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.03-02.15.16:975][779]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.03-02.15.16:983][780]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.03-02.15.19:139][900]LogContentBrowser: Attempting asset rename: NewFolder -> Books
+[2025.11.03-02.15.19:140][900]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.03-02.15.19:151][900]LogSlate: Window '' being destroyed
+[2025.11.03-02.15.19:155][900]LogSlate: Window '' being destroyed
+[2025.11.03-02.15.31:555][217]LogStreaming: Display: FlushAsyncLoading(804): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-02.15.31:688][217]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/BlenderFiles/Asset files/OBJ_Books.fbx]
+[2025.11.03-02.15.34:954][217]LogSlate: Window 'Import Content' being destroyed
+[2025.11.03-02.15.35:055][217]LogInterchangeEngine: [Pending] Importing
+[2025.11.03-02.15.35:166][218]LogStreaming: Display: FlushAsyncLoading(805): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-02.15.35:368][219]LogStreaming: Display: FlushAsyncLoading(807): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-02.15.35:508][221]LogStaticMesh: Display: Building static mesh OBJ_BookClosed (Required Memory Estimate: 0.108287 MB)...
+[2025.11.03-02.15.35:508][221]LogStaticMesh: Display: Building static mesh OBJ_BookOpen (Required Memory Estimate: 0.217855 MB)...
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Adjacency [0.00s], tris: 64, UVs 1
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Leaves [0.00s]
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Reduce [0.00s]
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Fallback [0.00s], num tris: 64
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Adjacency [0.00s], tris: 136, UVs 1
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Fallback [0.00s], num tris: 64
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.03-02.15.35:509][221]LogStaticMesh: ConstrainClusters:
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Input: 1 Clusters, 64 Triangles and 109 Vertices
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Output without splits: 1 Clusters, 64 Triangles and 109 Vertices
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Output with splits: 1 Clusters, 64 Triangles and 109 Vertices
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Leaves [0.00s]
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.03-02.15.35:509][221]LogStaticMesh: WritePages:
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Root: GPU size: 1376 bytes. 1 Pages. 1376.000 bytes per page (4.199% utilization).
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Page data disk size: 1620 bytes. Fixup data size: 24 bytes.
+[2025.11.03-02.15.35:509][221]LogStaticMesh:   Total GPU size: 1376 bytes, Total disk size: 1644 bytes.
+[2025.11.03-02.15.35:509][221]LogStaticMesh: Encode [0.00s]
+[2025.11.03-02.15.35:509][221]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.03-02.15.35:510][221]LogStaticMesh: Reduce [0.00s]
+[2025.11.03-02.15.35:510][221]LogStaticMesh: Fallback [0.00s], num tris: 136
+[2025.11.03-02.15.35:510][221]LogStaticMesh: Fallback [0.00s], num tris: 136
+[2025.11.03-02.15.35:511][221]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.15.35:511][221]LogStaticMesh: ConstrainClusters:
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Input: 3 Clusters, 262 Triangles and 355 Vertices
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Output without splits: 3 Clusters, 262 Triangles and 355 Vertices
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Output with splits: 3 Clusters, 262 Triangles and 355 Vertices
+[2025.11.03-02.15.35:511][221]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.03-02.15.35:511][221]LogStaticMesh: WritePages:
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Root: GPU size: 4504 bytes. 1 Pages. 4504.000 bytes per page (13.745% utilization).
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Page data disk size: 3364 bytes. Fixup data size: 40 bytes.
+[2025.11.03-02.15.35:511][221]LogStaticMesh:   Total GPU size: 4504 bytes, Total disk size: 3404 bytes.
+[2025.11.03-02.15.35:511][221]LogStaticMesh: Encode [0.00s]
+[2025.11.03-02.15.35:511][221]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.03-02.15.35:520][221]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.15.35:522][221]LogStaticMesh: Warning: OBJ_BookOpen has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.03-02.15.35:522][221]LogStaticMesh: Warning: OBJ_BookOpen has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.03-02.15.35:743][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Grace/OneDr...derFiles/Asset files/OBJ_Books.fbx]
+[2025.11.03-02.15.35:756][224]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.03-02.15.35:756][224]LogInterchangeEngine: [Success] Import Done
+[2025.11.03-02.15.35:850][226]LogMaterial: Display: Material /Game/Meshes/LabWallAssets/Books/MAT_BookClosed.MAT_BookClosed needed to have new flag set bUsedWithNanite !
+[2025.11.03-02.15.36:092][236]LogMaterial: Display: Material /Game/Meshes/LabWallAssets/Books/MAT_BookOpen.MAT_BookOpen needed to have new flag set bUsedWithNanite !
+[2025.11.03-02.15.41:805][309]LogStreaming: Display: FlushAsyncLoading(809): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-02.15.41:818][309]LogInterchangeEngine: [Pending] Importing
+[2025.11.03-02.15.41:818][309]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/BlenderFiles/Images/Textures/COLOR_Book.jpg]
+[2025.11.03-02.15.42:525][311]LogStreaming: Display: FlushAsyncLoading(810): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-02.15.42:526][311]LogInterchangeImport: JPEG file [C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/BlenderFiles/Images/Textures/COLOR_Book.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.11.03-02.15.42:831][313]LogTexture: Display: Building textures: /Game/Meshes/LabWallAssets/Books/COLOR_Book.COLOR_Book (BGRA8, 2589x980 x1x1x1) (Required Memory Estimate: 88.108536 MB), EncodeSpeed: Fast
+[2025.11.03-02.15.43:165][313]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Grace/OneDr...iles/Images/Textures/COLOR_Book.jpg]
+[2025.11.03-02.15.43:167][313]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.03-02.15.43:167][313]LogInterchangeEngine: [Success] Import Done
+[2025.11.03-02.15.47:207][468]LogContentBrowser: Deferred new asset file creation: COLOR_Book_Mat
+[2025.11.03-02.15.47:226][468]LogContentBrowser: Creating deferred item: COLOR_Book_Mat
+[2025.11.03-02.15.47:237][469]LogContentBrowser: Renaming the item being created (Deferred Item: COLOR_Book_Mat).
+[2025.11.03-02.15.48:527][538]LogContentBrowser: Attempting asset rename: COLOR_Book_Mat -> COLOR_Book_Mat
+[2025.11.03-02.15.48:537][538]LogContentBrowser: End creating deferred item COLOR_Book_Mat
+[2025.11.03-02.15.48:538][538]LogSlate: Window '' being destroyed
+[2025.11.03-02.15.48:551][538]LogSlate: Window '' being destroyed
+[2025.11.03-02.15.51:487][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.03-02.15.52:837][613]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.03-02.15.52:874][613]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Meshes/LabWallAssets/Books/MAT_BookClosed.MAT_BookClosed
+	Asset Type: Material
+	Asset Name: /Game/Meshes/LabWallAssets/Books/MAT_BookOpen.MAT_BookOpen
+	Asset Type: Material
+[2025.11.03-02.15.53:090][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.03-02.15.53:110][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.03-02.15.53:131][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.15.55:960][757]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.15.56:130][757]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.03-02.16.18:709][782]LogContentBrowser: Attempting asset rename: COLOR_Book_Mat -> MAT_Book
+[2025.11.03-02.16.18:930][782]LogMaterial: Display: MaterialInterface COLOR_Book_Mat has a incorrectly name EditorOnlyData 'COLOR_Book_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_BookEditorOnlyData'.
+[2025.11.03-02.16.18:933][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.16.18:933][782]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/LabWallAssets/Books/MAT_Book] ([1] browsable assets)...
+[2025.11.03-02.16.18:969][782]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/LabWallAssets/Books/MAT_Book.MAT_Book]
+[2025.11.03-02.16.18:969][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Books/MAT_Book]
+[2025.11.03-02.16.18:977][782]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Books/MAT_Book
+[2025.11.03-02.16.18:978][782]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_Book5C63266A4C0925E337EA619A42D86102.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Books/MAT_Book.uasset'
+[2025.11.03-02.16.18:979][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.721 ms (total: 4.56 sec)
+[2025.11.03-02.16.19:033][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.03-02.16.19:055][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.11.03-02.16.19:073][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.16.19:202][782]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-02.16.19:202][782]LogContentValidation: Enabled validators:
+[2025.11.03-02.16.19:202][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.16.19:202][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.16.19:202][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.16.19:203][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.16.19:203][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.16.19:203][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.16.19:203][782]AssetCheck: /Game/Meshes/LabWallAssets/Books/MAT_Book Validating asset
+[2025.11.03-02.16.19:260][782]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.16.22:870][962]LogMaterial: Display: Material /Game/Meshes/LabWallAssets/Books/MAT_Book.MAT_Book needed to have new flag set bUsedWithNanite !
+[2025.11.03-02.16.26:096][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.16.26:251][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/LabWallAssets/Books/OBJ_BookClosed] ([1] browsable assets)...
+[2025.11.03-02.16.26:262][116]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed]
+[2025.11.03-02.16.26:262][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Books/OBJ_BookClosed]
+[2025.11.03-02.16.26:275][116]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed
+[2025.11.03-02.16.26:275][116]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_BookClosedB2C4815644332F50F686359C7974221B.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Books/OBJ_BookClosed.uasset'
+[2025.11.03-02.16.26:294][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.345 ms (total: 4.76 sec)
+[2025.11.03-02.16.26:392][116]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-02.16.26:392][116]LogContentValidation: Enabled validators:
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.16.26:392][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.16.26:392][116]AssetCheck: /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed Validating asset
+[2025.11.03-02.16.26:433][116]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.16.27:630][173]LogSlate: Window 'OBJ_BookClosed' being destroyed
+[2025.11.03-02.16.27:734][173]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-02.16.27:734][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-02.16.27:769][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.03-02.16.48:983][363]LogContentBrowser: Attempting asset rename: COLOR_TableTwoLegs_Mat -> MAT_TableTwoLegs
+[2025.11.03-02.16.49:061][363]LogSlate: Window '' being destroyed
+[2025.11.03-02.16.49:065][363]LogSlate: Window '' being destroyed
+[2025.11.03-02.16.49:168][363]LogMaterial: Display: MaterialInterface COLOR_TableTwoLegs_Mat has a incorrectly name EditorOnlyData 'COLOR_TableTwoLegs_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_TableTwoLegsEditorOnlyData'.
+[2025.11.03-02.16.49:171][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.16.49:171][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs] ([1] browsable assets)...
+[2025.11.03-02.16.49:171][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs]
+[2025.11.03-02.16.49:180][363]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs
+[2025.11.03-02.16.49:180][363]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_TableTwoLegsDCF5D4F14B82617B639070B94A42C3B7.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs.uasset'
+[2025.11.03-02.16.49:182][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/COLOR_TableTwoLegs_Mat] ([1] browsable assets)...
+[2025.11.03-02.16.49:182][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/COLOR_TableTwoLegs_Mat]
+[2025.11.03-02.16.49:187][363]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/COLOR_TableTwoLegs_Mat
+[2025.11.03-02.16.49:187][363]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/COLOR_TableTwoLegs_Mat9602E7274A08DE59B893A599559A90B2.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/COLOR_TableTwoLegs_Mat.uasset'
+[2025.11.03-02.16.49:189][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.260 ms (total: 4.78 sec)
+[2025.11.03-02.16.49:199][363]LogSlate: Window '' being destroyed
+[2025.11.03-02.16.49:309][363]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.16.49:309][363]LogContentValidation: Enabled validators:
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.16.49:309][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.16.49:309][363]AssetCheck: /Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs Validating asset
+[2025.11.03-02.16.49:309][363]AssetCheck: /Game/Meshes/LabWallAssets/Tables/COLOR_TableTwoLegs_Mat Validating asset
+[2025.11.03-02.16.49:360][363]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.17.00:170][796]LogContentBrowser: Attempting asset rename: COLOR_WoodWorkbench_Mat -> MAT_WoodWorkbench
+[2025.11.03-02.17.00:256][796]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.00:261][796]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.00:367][796]LogMaterial: Display: MaterialInterface COLOR_WoodWorkbench_Mat has a incorrectly name EditorOnlyData 'COLOR_WoodWorkbench_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_WoodWorkbenchEditorOnlyData'.
+[2025.11.03-02.17.00:370][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.17.00:371][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/OBJ_Workbench] ([1] browsable assets)...
+[2025.11.03-02.17.00:371][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/OBJ_Workbench]
+[2025.11.03-02.17.00:386][796]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/OBJ_Workbench
+[2025.11.03-02.17.00:388][796]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_Workbench714A2CD543C78B66FB8523996DE2A22C.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/OBJ_Workbench.uasset'
+[2025.11.03-02.17.00:390][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench] ([1] browsable assets)...
+[2025.11.03-02.17.00:390][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench]
+[2025.11.03-02.17.00:403][796]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench
+[2025.11.03-02.17.00:403][796]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodWorkbench48E40B5245474D3346B2319CDEB3D38A.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench.uasset'
+[2025.11.03-02.17.00:405][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.106 ms (total: 4.81 sec)
+[2025.11.03-02.17.00:442][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.03-02.17.00:463][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.03-02.17.00:486][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.17.00:505][796]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.00:620][796]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.17.00:620][796]LogContentValidation: Enabled validators:
+[2025.11.03-02.17.00:620][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.17.00:621][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.17.00:621][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.17.00:621][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.17.00:621][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.17.00:621][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.17.00:621][796]AssetCheck: /Game/Meshes/LabWallAssets/Tables/OBJ_Workbench Validating asset
+[2025.11.03-02.17.00:621][796]AssetCheck: /Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench Validating asset
+[2025.11.03-02.17.00:664][796]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.17.40:857][988]LogContentBrowser: Attempting asset rename: COLOR_LabArch_Mat -> MAT_LabArch
+[2025.11.03-02.17.40:929][988]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.40:934][988]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.41:039][988]LogMaterial: Display: MaterialInterface COLOR_LabArch_Mat has a incorrectly name EditorOnlyData 'COLOR_LabArch_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_LabArchEditorOnlyData'.
+[2025.11.03-02.17.41:041][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.17.41:041][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWallArch] ([1] browsable assets)...
+[2025.11.03-02.17.41:041][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWallArch]
+[2025.11.03-02.17.41:053][988]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWallArch
+[2025.11.03-02.17.41:054][988]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_LabWallArch8A8ABCDB4A7ACAE0DAE6449D66BA2D11.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_LabWallArch.uasset'
+[2025.11.03-02.17.41:056][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabArch] ([1] browsable assets)...
+[2025.11.03-02.17.41:056][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabArch]
+[2025.11.03-02.17.41:064][988]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabArch
+[2025.11.03-02.17.41:064][988]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabArch193E2FBA41874C08EE4067B8220CD4CD.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabArch.uasset'
+[2025.11.03-02.17.41:066][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.424 ms (total: 4.84 sec)
+[2025.11.03-02.17.41:098][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.03-02.17.41:119][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.03-02.17.41:139][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-02.17.41:151][988]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.41:279][988]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.17.41:279][988]LogContentValidation: Enabled validators:
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.17.41:279][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.17.41:279][988]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWallArch Validating asset
+[2025.11.03-02.17.41:279][988]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabArch Validating asset
+[2025.11.03-02.17.41:325][988]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.17.55:176][625]LogContentBrowser: Attempting asset rename: COLOR_LabPillar_Mat -> MAT_LabPillar
+[2025.11.03-02.17.55:236][625]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.55:241][625]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.55:349][625]LogMaterial: Display: MaterialInterface COLOR_LabPillar_Mat has a incorrectly name EditorOnlyData 'COLOR_LabPillar_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_LabPillarEditorOnlyData'.
+[2025.11.03-02.17.55:351][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.17.55:351][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWallPillar] ([1] browsable assets)...
+[2025.11.03-02.17.55:351][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWallPillar]
+[2025.11.03-02.17.55:366][625]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWallPillar
+[2025.11.03-02.17.55:368][625]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_LabWallPillarDB7EA2E84FDE53862961C79EF4E6AA6C.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_LabWallPillar.uasset'
+[2025.11.03-02.17.55:370][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabPillar] ([1] browsable assets)...
+[2025.11.03-02.17.55:370][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabPillar]
+[2025.11.03-02.17.55:380][625]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabPillar
+[2025.11.03-02.17.55:380][625]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabPillarF1D29DD24E48A7CB587770893414B717.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabPillar.uasset'
+[2025.11.03-02.17.55:382][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.785 ms (total: 4.87 sec)
+[2025.11.03-02.17.55:438][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.03-02.17.55:459][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.11.03-02.17.55:481][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.03-02.17.55:496][625]LogSlate: Window '' being destroyed
+[2025.11.03-02.17.55:632][625]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.17.55:632][625]LogContentValidation: Enabled validators:
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.17.55:632][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.17.55:632][625]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWallPillar Validating asset
+[2025.11.03-02.17.55:632][625]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabPillar Validating asset
+[2025.11.03-02.17.55:684][625]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.05:109][ 65]LogContentBrowser: Attempting asset rename: COLOR_LabWall_Mat -> MAT_LabWall
+[2025.11.03-02.18.05:201][ 65]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.05:206][ 65]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.05:316][ 65]LogMaterial: Display: MaterialInterface COLOR_LabWall_Mat has a incorrectly name EditorOnlyData 'COLOR_LabWall_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_LabWallEditorOnlyData'.
+[2025.11.03-02.18.05:319][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.05:319][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWall] ([1] browsable assets)...
+[2025.11.03-02.18.05:319][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_LabWall]
+[2025.11.03-02.18.05:331][ 65]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWall
+[2025.11.03-02.18.05:333][ 65]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_LabWall17AF5120432095CCB7BCDE927BDCA67D.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_LabWall.uasset'
+[2025.11.03-02.18.05:335][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabWall] ([1] browsable assets)...
+[2025.11.03-02.18.05:335][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabWall]
+[2025.11.03-02.18.05:347][ 65]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabWall
+[2025.11.03-02.18.05:347][ 65]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabWall9F3DF21844C872813B2623B798B2A934.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabWall.uasset'
+[2025.11.03-02.18.05:349][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.355 ms (total: 4.90 sec)
+[2025.11.03-02.18.05:386][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.03-02.18.05:409][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.03-02.18.05:432][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.18.05:445][ 65]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: Enabled validators:
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.18.05:550][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.18.05:551][ 65]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_LabWall Validating asset
+[2025.11.03-02.18.05:551][ 65]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabWall Validating asset
+[2025.11.03-02.18.05:596][ 65]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.13:793][444]LogContentBrowser: Attempting asset rename: COLOR_TableTwoLegs_Mat -> MAT_TableTwoLegs
+[2025.11.03-02.18.13:868][444]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.13:873][444]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.13:970][444]LogMaterial: Display: MaterialInterface COLOR_TableTwoLegs_Mat has a incorrectly name EditorOnlyData 'COLOR_TableTwoLegs_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_TableTwoLegsEditorOnlyData'.
+[2025.11.03-02.18.13:972][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.13:972][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_TableTwoLegs] ([1] browsable assets)...
+[2025.11.03-02.18.13:972][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_TableTwoLegs]
+[2025.11.03-02.18.13:981][444]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_TableTwoLegs
+[2025.11.03-02.18.13:981][444]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_TableTwoLegsD3F91A46483BAD41923D73A4320D78E3.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_TableTwoLegs.uasset'
+[2025.11.03-02.18.13:983][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.203 ms (total: 4.91 sec)
+[2025.11.03-02.18.14:025][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.03-02.18.14:050][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.11.03-02.18.14:073][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.03-02.18.14:086][444]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.14:200][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-02.18.14:200][444]LogContentValidation: Enabled validators:
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.18.14:200][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.18.14:200][444]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_TableTwoLegs Validating asset
+[2025.11.03-02.18.14:248][444]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.23:502][864]LogContentBrowser: Attempting asset rename: COLOR_WoodLog_Mat -> MAT_WoodLog
+[2025.11.03-02.18.23:584][864]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.23:591][864]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.23:693][864]LogMaterial: Display: MaterialInterface COLOR_WoodLog_Mat has a incorrectly name EditorOnlyData 'COLOR_WoodLog_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_WoodLogEditorOnlyData'.
+[2025.11.03-02.18.23:694][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.23:694][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLog] ([1] browsable assets)...
+[2025.11.03-02.18.23:694][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLog]
+[2025.11.03-02.18.23:707][864]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLog
+[2025.11.03-02.18.23:710][864]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_WoodLog650F8AF74E4F18B9DA0081AC161B8E29.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_WoodLog.uasset'
+[2025.11.03-02.18.23:712][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLog] ([1] browsable assets)...
+[2025.11.03-02.18.23:712][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLog]
+[2025.11.03-02.18.23:719][864]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLog
+[2025.11.03-02.18.23:720][864]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLog1759913547DA5538B506699149BA366B.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLog.uasset'
+[2025.11.03-02.18.23:721][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.636 ms (total: 4.93 sec)
+[2025.11.03-02.18.23:759][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.03-02.18.23:781][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.03-02.18.23:804][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.18.23:816][864]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.23:938][864]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.18.23:938][864]LogContentValidation: Enabled validators:
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.18.23:938][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.18.23:938][864]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLog Validating asset
+[2025.11.03-02.18.23:938][864]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLog Validating asset
+[2025.11.03-02.18.23:985][864]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.33:286][300]LogContentBrowser: Attempting asset rename: COLOR_WoodLogAlt1_Mat -> MAT_WoodLogAlt1
+[2025.11.03-02.18.33:365][300]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.33:371][300]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.33:475][300]LogMaterial: Display: MaterialInterface COLOR_WoodLogAlt1_Mat has a incorrectly name EditorOnlyData 'COLOR_WoodLogAlt1_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_WoodLogAlt1EditorOnlyData'.
+[2025.11.03-02.18.33:477][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.33:477][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt1] ([1] browsable assets)...
+[2025.11.03-02.18.33:477][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt1]
+[2025.11.03-02.18.33:488][300]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt1
+[2025.11.03-02.18.33:490][300]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_WoodLogAlt1A3E8909A46373B7237B72B9D5C00BEAB.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt1.uasset'
+[2025.11.03-02.18.33:493][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1] ([1] browsable assets)...
+[2025.11.03-02.18.33:493][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1]
+[2025.11.03-02.18.33:503][300]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1
+[2025.11.03-02.18.33:503][300]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLogAlt12FC15012483F597E84C6369F9F7BFF58.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1.uasset'
+[2025.11.03-02.18.33:505][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.167 ms (total: 4.96 sec)
+[2025.11.03-02.18.33:538][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.03-02.18.33:559][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.11.03-02.18.33:583][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.18.33:594][300]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.33:724][300]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.18.33:724][300]LogContentValidation: Enabled validators:
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.18.33:724][300]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.18.33:724][300]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt1 Validating asset
+[2025.11.03-02.18.33:724][300]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1 Validating asset
+[2025.11.03-02.18.33:772][300]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.40:838][624]LogContentBrowser: Attempting asset rename: COLOR_WoodLogAlt2_Mat -> MAT_WoodLogAlt2
+[2025.11.03-02.18.40:918][624]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.40:925][624]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.41:044][624]LogMaterial: Display: MaterialInterface COLOR_WoodLogAlt2_Mat has a incorrectly name EditorOnlyData 'COLOR_WoodLogAlt2_MatEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MAT_WoodLogAlt2EditorOnlyData'.
+[2025.11.03-02.18.41:046][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.41:047][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt2] ([1] browsable assets)...
+[2025.11.03-02.18.41:047][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt2]
+[2025.11.03-02.18.41:063][624]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt2
+[2025.11.03-02.18.41:066][624]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_WoodLogAlt2034C8063477E9CB7590393AF221E3D01.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt2.uasset'
+[2025.11.03-02.18.41:070][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2] ([1] browsable assets)...
+[2025.11.03-02.18.41:070][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2]
+[2025.11.03-02.18.41:079][624]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2
+[2025.11.03-02.18.41:079][624]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLogAlt2B77012FC476F833CB1C5A2A7675870F7.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2.uasset'
+[2025.11.03-02.18.41:081][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.971 ms (total: 5.00 sec)
+[2025.11.03-02.18.41:121][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.03-02.18.41:144][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.03-02.18.41:166][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.18.41:182][624]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.41:301][624]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.18.41:301][624]LogContentValidation: Enabled validators:
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.18.41:301][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.18.41:301][624]AssetCheck: /Game/Meshes/LabWallAssets/Walls/OBJ_WoodLogAlt2 Validating asset
+[2025.11.03-02.18.41:302][624]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2 Validating asset
+[2025.11.03-02.18.41:351][624]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.18.47:159][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1399.389404
+[2025.11.03-02.18.47:199][897]LogContentBrowser: Attempting asset rename: COLOR_TableTwoLegs -> COLOR_TableTwoLegs
+[2025.11.03-02.18.47:199][897]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.47:209][897]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.47:871][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-02.18.47:871][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1399.768311, Update Interval: 335.510742
+[2025.11.03-02.18.49:021][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.18.49:153][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.11.03-02.18.49:177][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.18.49:201][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.03-02.18.49:226][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.931 ms (total: 5.20 sec)
+[2025.11.03-02.18.52:846][100]LogContentBrowser: Attempting asset rename: OBJ_LabWall -> OBJ_LabWall
+[2025.11.03-02.18.52:847][100]LogSlate: Window '' being destroyed
+[2025.11.03-02.18.52:857][100]LogSlate: Window '' being destroyed
+[2025.11.03-02.19.22:738][459]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.19.22:866][459]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.03-02.19.34:568][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.19.34:723][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/LabWallAssets/Books/OBJ_BookOpen] ([1] browsable assets)...
+[2025.11.03-02.19.34:737][965]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen]
+[2025.11.03-02.19.34:737][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Books/OBJ_BookOpen]
+[2025.11.03-02.19.34:751][965]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen
+[2025.11.03-02.19.34:751][965]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/OBJ_BookOpen78E992984C630F4A2ADDCD80C070B89E.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Books/OBJ_BookOpen.uasset'
+[2025.11.03-02.19.34:796][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.516 ms (total: 5.43 sec)
+[2025.11.03-02.19.34:937][965]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-02.19.34:937][965]LogContentValidation: Enabled validators:
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.19.34:937][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.19.34:937][965]AssetCheck: /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen Validating asset
+[2025.11.03-02.19.34:982][965]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.19.36:200][ 24]LogSlate: Window 'OBJ_BookOpen' being destroyed
+[2025.11.03-02.19.36:345][ 24]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-02.19.36:345][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-02.19.36:405][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.03-02.19.41:477][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.19.41:477][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.19.41:478][302]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed as actor: StaticMeshActor /Game/Levels/LEVEL_AlchemyLab.LEVEL_AlchemyLab:PersistentLevel.StaticMeshActor_2
+[2025.11.03-02.19.45:400][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-02.19.45:401][528]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.11.03-02.19.45:409][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.19.45:409][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed
+[2025.11.03-02.19.45:412][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookClosed.OBJ_BookClosed as actor: StaticMeshActor /Game/Levels/LEVEL_AlchemyLab.LEVEL_AlchemyLab:PersistentLevel.StaticMeshActor_UAID_D0C1B52FCD09699E02_1718606825
+[2025.11.03-02.20.35:615][424]Cmd: TRANSACTION UNDO
+[2025.11.03-02.20.35:616][424]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.03-02.20.36:493][448]Cmd: TRANSACTION UNDO
+[2025.11.03-02.20.36:493][448]LogEditorTransaction: Undo Move Elements
+[2025.11.03-02.20.37:722][518]Cmd: TRANSACTION UNDO
+[2025.11.03-02.20.37:722][518]LogEditorTransaction: Undo Move Elements
+[2025.11.03-02.21.11:751][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.21.11:751][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.21.11:752][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen as actor: StaticMeshActor /Game/Levels/LEVEL_AlchemyLab.LEVEL_AlchemyLab:PersistentLevel.StaticMeshActor_3
+[2025.11.03-02.21.12:823][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.21.12:828][520]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.11.03-02.21.12:835][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.21.12:835][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen
+[2025.11.03-02.21.12:837][520]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/LabWallAssets/Books/OBJ_BookOpen.OBJ_BookOpen as actor: StaticMeshActor /Game/Levels/LEVEL_AlchemyLab.LEVEL_AlchemyLab:PersistentLevel.StaticMeshActor_UAID_D0C1B52FCD09699E02_1806032827
+[2025.11.03-02.21.31:090][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.03-02.22.23:102][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.22.23:246][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.11.03-02.22.23:268][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-02.22.23:289][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.03-02.22.23:298][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/E/OA/WEJMVC3XSV0TIT409CQWNO
+[2025.11.03-02.22.23:298][547]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/WEJMVC3XSV0TIT409CQWNO0A57386C4AAAF2441178D0A53DF496E4.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/E/OA/WEJMVC3XSV0TIT409CQWNO.uasset'
+[2025.11.03-02.22.23:307][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/FM/0ERB116KWELY9C6CTUERFQ
+[2025.11.03-02.22.23:307][547]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/0ERB116KWELY9C6CTUERFQB77C0D8B424962B6D12C0190F278B0BD.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/FM/0ERB116KWELY9C6CTUERFQ.uasset'
+[2025.11.03-02.22.23:333][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.650 ms (total: 5.66 sec)
+[2025.11.03-02.22.23:441][547]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-02.22.23:441][547]LogContentValidation: Enabled validators:
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.22.23:441][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.22.23:441][547]AssetCheck: /Game/Levels/LEVEL_AlchemyLab Validating asset
+[2025.11.03-02.22.23:481][547]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.23.04:010][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.23.04:153][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.03-02.23.04:173][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.23.04:194][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.23.04:223][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.817 ms (total: 5.88 sec)
+[2025.11.03-02.23.25:212][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.23.25:372][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.23.25:394][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.23.25:414][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-02.23.25:440][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.962 ms (total: 6.10 sec)
+[2025.11.03-02.23.26:022][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.23.26:168][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.23.26:192][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.23.26:214][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-02.23.26:235][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.895 ms (total: 6.32 sec)
+[2025.11.03-02.24.39:442][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1751.676147
+[2025.11.03-02.24.39:543][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-02.24.39:543][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1751.759644, Update Interval: 304.171265
+[2025.11.03-02.24.44:745][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.24.44:879][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.03-02.24.44:903][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-02.24.44:928][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.03-02.24.44:965][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.253 ms (total: 6.54 sec)
+[2025.11.03-02.24.46:102][904]Cmd: DUPLICATE
+[2025.11.03-02.24.46:102][904]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.25.01:291][756]Cmd: DUPLICATE
+[2025.11.03-02.25.01:291][756]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.25.12:082][391]Cmd: DUPLICATE
+[2025.11.03-02.25.12:082][391]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.25.53:393][780]Cmd: TRANSACTION UNDO
+[2025.11.03-02.25.53:393][780]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.03-02.26.11:310][748]Cmd: DUPLICATE
+[2025.11.03-02.26.11:311][748]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.26.20:229][233]Cmd: DUPLICATE
+[2025.11.03-02.26.20:229][233]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.26.23:799][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.03-02.26.32:246][910]Cmd: DUPLICATE
+[2025.11.03-02.26.32:246][910]Cmd: ACTOR DUPLICATE
+[2025.11.03-02.28.23:563][250]Cmd: TRANSACTION UNDO
+[2025.11.03-02.28.23:563][250]LogEditorTransaction: Undo Move Elements
+[2025.11.03-02.28.27:651][464]Cmd: MODE ROTGRID=0
+[2025.11.03-02.28.32:966][772]Cmd: MODE ROTGRID=1
+[2025.11.03-02.28.33:369][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.28.33:523][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-02.28.33:549][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.11.03-02.28.33:570][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-02.28.33:579][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/C/3Q/0CS8SKT2W2ZV1JAOTBTUMW
+[2025.11.03-02.28.33:579][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/0CS8SKT2W2ZV1JAOTBTUMWBD5EDBCB450B517998B2939753D455E8.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/C/3Q/0CS8SKT2W2ZV1JAOTBTUMW.uasset'
+[2025.11.03-02.28.33:586][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/11/J1PTA23S2ACIPIICUUN2QJ
+[2025.11.03-02.28.33:587][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/J1PTA23S2ACIPIICUUN2QJ6DC82CF4401018898A346DB1CBB7191E.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/11/J1PTA23S2ACIPIICUUN2QJ.uasset'
+[2025.11.03-02.28.33:594][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/3/W7/SPSICRB82N2W26PG4O457H
+[2025.11.03-02.28.33:594][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SPSICRB82N2W26PG4O457H51A262A44A6C5ADCF5AF4A9058566412.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/3/W7/SPSICRB82N2W26PG4O457H.uasset'
+[2025.11.03-02.28.33:601][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/IP/LEYZA5T4EZ2D3DV195QK68
+[2025.11.03-02.28.33:601][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/LEYZA5T4EZ2D3DV195QK688075978B47117BE59541558F2528CB0F.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/IP/LEYZA5T4EZ2D3DV195QK68.uasset'
+[2025.11.03-02.28.33:612][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/D/GN/226P32CYW233U1ABT5DSMS
+[2025.11.03-02.28.33:612][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/226P32CYW233U1ABT5DSMS0F7C402E4FF9E31D8B29D1A747D5A4CB.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/D/GN/226P32CYW233U1ABT5DSMS.uasset'
+[2025.11.03-02.28.33:620][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/9/HY/3HEW6T30B8C1WPA5HZZVZI
+[2025.11.03-02.28.33:620][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/3HEW6T30B8C1WPA5HZZVZI6334E2944EDAA3931B918DB1663A9A3F.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/9/HY/3HEW6T30B8C1WPA5HZZVZI.uasset'
+[2025.11.03-02.28.33:631][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/5/BH/J1C988IVU6FHZOFZGS79DS
+[2025.11.03-02.28.33:631][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/J1C988IVU6FHZOFZGS79DS27CE983F4274C41739A63E91A8157D6F.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/5/BH/J1C988IVU6FHZOFZGS79DS.uasset'
+[2025.11.03-02.28.33:638][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/JN/7RBGYPRUNME7YQ1VYJS7TG
+[2025.11.03-02.28.33:638][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/7RBGYPRUNME7YQ1VYJS7TGF9E5FED54BE96A3305C7DAB4ACE9CA20.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/JN/7RBGYPRUNME7YQ1VYJS7TG.uasset'
+[2025.11.03-02.28.33:647][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/4/Z5/JYYUWLM771XSXQ8EXTBDEH
+[2025.11.03-02.28.33:647][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/JYYUWLM771XSXQ8EXTBDEHB668E8414EEE983C9E15D48DBD2F79C7.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/4/Z5/JYYUWLM771XSXQ8EXTBDEH.uasset'
+[2025.11.03-02.28.33:656][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/B/CM/W8S1OAZ8Z5MC7W3ZYZR2RA
+[2025.11.03-02.28.33:656][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/W8S1OAZ8Z5MC7W3ZYZR2RAB37F06AB463BA4F55B1C1A874A8445AE.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/B/CM/W8S1OAZ8Z5MC7W3ZYZR2RA.uasset'
+[2025.11.03-02.28.33:667][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/40/7BE22Z95HJDTE1AWACEXI1
+[2025.11.03-02.28.33:667][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/7BE22Z95HJDTE1AWACEXI112FDA88B4A8F7073389ADAAB0026D15D.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/40/7BE22Z95HJDTE1AWACEXI1.uasset'
+[2025.11.03-02.28.33:676][793]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/8/3E/3T7ZP3FID8NQHVG8XMTXOF
+[2025.11.03-02.28.33:676][793]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/3T7ZP3FID8NQHVG8XMTXOF56C398624439764D81520892249F95E0.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/8/3E/3T7ZP3FID8NQHVG8XMTXOF.uasset'
+[2025.11.03-02.28.33:699][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.295 ms (total: 6.87 sec)
+[2025.11.03-02.28.33:807][793]LogContentValidation: Display: Starting to validate 12 assets
+[2025.11.03-02.28.33:807][793]LogContentValidation: Enabled validators:
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.28.33:807][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.28.33:808][793]AssetCheck: /Game/Levels/LEVEL_AlchemyLab Validating asset
+[2025.11.03-02.28.33:842][793]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.03-02.28.35:568][894]Cmd: MODE ROTGRID=0
+[2025.11.03-02.29.54:979][433]Cmd: TRANSACTION UNDO
+[2025.11.03-02.29.54:979][433]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.03-02.30.03:787][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.30.03:911][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.03-02.30.03:936][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-02.30.03:955][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.30.03:963][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/C/3Q/0CS8SKT2W2ZV1JAOTBTUMW
+[2025.11.03-02.30.03:964][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/0CS8SKT2W2ZV1JAOTBTUMWB2119B1446F6D1AB92F9CE8E737343F5.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/C/3Q/0CS8SKT2W2ZV1JAOTBTUMW.uasset'
+[2025.11.03-02.30.03:973][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/11/J1PTA23S2ACIPIICUUN2QJ
+[2025.11.03-02.30.03:975][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/J1PTA23S2ACIPIICUUN2QJ7955E263498D25E6D72F10BB82A9F0F2.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/11/J1PTA23S2ACIPIICUUN2QJ.uasset'
+[2025.11.03-02.30.03:984][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/3/W7/SPSICRB82N2W26PG4O457H
+[2025.11.03-02.30.03:985][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/SPSICRB82N2W26PG4O457HEC161BF243307830D4893A9B26E4B4D7.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/3/W7/SPSICRB82N2W26PG4O457H.uasset'
+[2025.11.03-02.30.03:994][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/IP/LEYZA5T4EZ2D3DV195QK68
+[2025.11.03-02.30.03:996][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/LEYZA5T4EZ2D3DV195QK68477057A24250A16202D33AB6FB7F3EC4.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/IP/LEYZA5T4EZ2D3DV195QK68.uasset'
+[2025.11.03-02.30.04:004][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/5/BH/J1C988IVU6FHZOFZGS79DS
+[2025.11.03-02.30.04:006][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/J1C988IVU6FHZOFZGS79DSAC091F3F458B37C8FE801BAC26245BD3.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/5/BH/J1C988IVU6FHZOFZGS79DS.uasset'
+[2025.11.03-02.30.04:014][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/JN/7RBGYPRUNME7YQ1VYJS7TG
+[2025.11.03-02.30.04:016][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/7RBGYPRUNME7YQ1VYJS7TG927082AD4978B824E406D491599F9DAA.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/6/JN/7RBGYPRUNME7YQ1VYJS7TG.uasset'
+[2025.11.03-02.30.04:024][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/4/Z5/JYYUWLM771XSXQ8EXTBDEH
+[2025.11.03-02.30.04:026][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/JYYUWLM771XSXQ8EXTBDEH907855C54B1284F712141DB9E5D155FE.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/4/Z5/JYYUWLM771XSXQ8EXTBDEH.uasset'
+[2025.11.03-02.30.04:035][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/B/CM/W8S1OAZ8Z5MC7W3ZYZR2RA
+[2025.11.03-02.30.04:037][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/W8S1OAZ8Z5MC7W3ZYZR2RAE695C29B44F7F3CC4FF340902922C8DF.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/B/CM/W8S1OAZ8Z5MC7W3ZYZR2RA.uasset'
+[2025.11.03-02.30.04:046][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/40/7BE22Z95HJDTE1AWACEXI1
+[2025.11.03-02.30.04:047][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/7BE22Z95HJDTE1AWACEXI150B35DE14970CF1925ECDCB57C21CA2A.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/2/40/7BE22Z95HJDTE1AWACEXI1.uasset'
+[2025.11.03-02.30.04:056][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LEVEL_AlchemyLab/8/3E/3T7ZP3FID8NQHVG8XMTXOF
+[2025.11.03-02.30.04:058][918]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/3T7ZP3FID8NQHVG8XMTXOFF0CB1D6E4240CAE56C57EF9649DB9931.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/__ExternalActors__/Levels/LEVEL_AlchemyLab/8/3E/3T7ZP3FID8NQHVG8XMTXOF.uasset'
+[2025.11.03-02.30.04:078][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.299 ms (total: 7.16 sec)
+[2025.11.03-02.30.04:193][918]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.03-02.30.04:193][918]LogContentValidation: Enabled validators:
+[2025.11.03-02.30.04:193][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-02.30.04:193][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-02.30.04:193][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-02.30.04:194][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-02.30.04:194][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-02.30.04:194][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-02.30.04:194][918]AssetCheck: /Game/Levels/LEVEL_AlchemyLab Validating asset
+[2025.11.03-02.30.07:298][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-02.30.07:462][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.30.07:483][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-02.30.07:503][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.03-02.30.07:528][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.276 ms (total: 7.39 sec)
+[2025.11.03-02.30.15:698][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2087.939697
+[2025.11.03-02.30.16:697][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-02.30.16:697][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2088.605713, Update Interval: 302.653290
