@@ -5975,3 +5975,66 @@ LogInit: Object subsystem initialized
 [2025.11.04-02.28.37:772][ 54]LogStaticMesh: Warning: Invalid material [MAT_Glass] used on Nanite static mesh [OBJ_FlaskBottle]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.11.04-02.28.37:773][ 54]LogStaticMesh: Warning: Invalid material [MAT_Glass] used on Nanite static mesh [OBJ_Flask]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.11.04-02.28.37:773][ 54]LogStaticMesh: Warning: Invalid material [MAT_Glass] used on Nanite static mesh [OBJ_FlaskBottle]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.11.04-02.29.43:464][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.11.04-02.29.46:639][933]LogSlate: Window 'Save Content' being destroyed
+[2025.11.04-02.29.46:650][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-02.29.46:781][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Books/MAT_Book] ([1] browsable assets)...
+[2025.11.04-02.29.46:781][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Books/MAT_Book]
+[2025.11.04-02.29.46:789][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Books/MAT_Book
+[2025.11.04-02.29.46:790][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_Book2C6753D3476981AD721737AB6160D63A.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Books/MAT_Book.uasset'
+[2025.11.04-02.29.46:791][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Flasks/MAT_Glass] ([1] browsable assets)...
+[2025.11.04-02.29.46:791][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Flasks/MAT_Glass]
+[2025.11.04-02.29.46:796][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Flasks/MAT_Glass
+[2025.11.04-02.29.46:797][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_Glass7AF867F9437FA4BFFF2C8786E684B839.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Flasks/MAT_Glass.uasset'
+[2025.11.04-02.29.46:799][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabArch] ([1] browsable assets)...
+[2025.11.04-02.29.46:799][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabArch]
+[2025.11.04-02.29.46:805][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabArch
+[2025.11.04-02.29.46:806][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabArchA3E5DFA2419A44FCCD09B5896F50F865.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabArch.uasset'
+[2025.11.04-02.29.46:807][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabPillar] ([1] browsable assets)...
+[2025.11.04-02.29.46:808][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabPillar]
+[2025.11.04-02.29.46:813][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabPillar
+[2025.11.04-02.29.46:813][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabPillar84A225F548FD4FD5C6C741A68177D0B3.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabPillar.uasset'
+[2025.11.04-02.29.46:815][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_LabWall] ([1] browsable assets)...
+[2025.11.04-02.29.46:815][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_LabWall]
+[2025.11.04-02.29.46:820][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_LabWall
+[2025.11.04-02.29.46:821][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_LabWall9A99DDE4488F5B5680AA7FAD060A7674.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_LabWall.uasset'
+[2025.11.04-02.29.46:822][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs] ([1] browsable assets)...
+[2025.11.04-02.29.46:822][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs]
+[2025.11.04-02.29.46:827][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs
+[2025.11.04-02.29.46:828][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_TableTwoLegs7C6B02CF4349F3EAB831E2BBCB364C1C.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs.uasset'
+[2025.11.04-02.29.46:829][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLog] ([1] browsable assets)...
+[2025.11.04-02.29.46:829][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLog]
+[2025.11.04-02.29.46:836][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLog
+[2025.11.04-02.29.46:837][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLogFC7AFBCC43736F956E619F83F7F13CF3.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLog.uasset'
+[2025.11.04-02.29.46:838][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1] ([1] browsable assets)...
+[2025.11.04-02.29.46:838][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1]
+[2025.11.04-02.29.46:845][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1
+[2025.11.04-02.29.46:845][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLogAlt16A111CF743206AEBF0D32D94AE5D33AE.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1.uasset'
+[2025.11.04-02.29.46:847][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2] ([1] browsable assets)...
+[2025.11.04-02.29.46:847][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2]
+[2025.11.04-02.29.46:854][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2
+[2025.11.04-02.29.46:855][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodLogAlt20DCFB48644D5BEAE4071118C1851F1AE.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2.uasset'
+[2025.11.04-02.29.46:856][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench] ([1] browsable assets)...
+[2025.11.04-02.29.46:856][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench]
+[2025.11.04-02.29.46:862][933]LogSavePackage: Moving output files for package: /Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench
+[2025.11.04-02.29.46:863][933]LogSavePackage: Moving '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Saved/MAT_WoodWorkbenchA3B718FD412D62BA2E3BDBB4E61807C6.tmp' to '../../../../../../Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Grace - Asset Import/AssetImportCITA412/Content/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench.uasset'
+[2025.11.04-02.29.46:875][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.954 ms (total: 2.51 sec)
+[2025.11.04-02.29.46:985][933]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.04-02.29.46:985][933]LogContentValidation: Enabled validators:
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-02.29.46:985][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Books/MAT_Book Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Flasks/MAT_Glass Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabArch Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabPillar Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_LabWall Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Tables/MAT_TableTwoLegs Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLog Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt1 Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Walls/MAT_WoodLogAlt2 Validating asset
+[2025.11.04-02.29.46:985][933]AssetCheck: /Game/Meshes/LabWallAssets/Tables/MAT_WoodWorkbench Validating asset
+[2025.11.04-02.29.50:762][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
