@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea_Level.umap"
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea_Level.umap",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Meshes/LabWallAssets/Floor/NORMAL_Floor_Mat.uasset"
 			]
 		}
 	]
