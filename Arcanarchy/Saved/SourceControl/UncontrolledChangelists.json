@@ -5,19 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Widgets/MainMenu/Sessions/WB_CreateGame.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/ElementalSpellsVFX/VFX/SoulRainRune/Systems/N_SoulRainRune.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/ElementalSpellsVFX/Essentials/Textures/T_Rune.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/ElementalSpellsVFX/VFX/WaterExplosion/Systems/N_WaterExplosion.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Lightning/BP_ElectricProjectile.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Input/IMC_TwinStick.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Input/Actions/IA_ToggleGameMenu.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Input/Actions/ToggleGameMenu.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacterJesse.uasset",
-				"E:/School/Morrisville/CITA412/CITA-412/Arcanarchy/Content/Lightning/BP_ElectricProjectileJesse.uasset",
-				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea_Level.umap"
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Levels/NetworkTest_PlayArea_Level.umap",
+				"C:/Users/Grace/OneDrive - SUNY Morrisville/Documents/GitHub/CITA-412/Arcanarchy/Content/Meshes/LabWallAssets/Floor/NORMAL_Floor_Mat.uasset"
 			]
 		}
 	]
